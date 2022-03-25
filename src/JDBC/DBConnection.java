@@ -8,7 +8,7 @@ public class DBConnection {
 
 	public static Connection DBconnect() {
 		
-		// DB에 접속정보 저장을 위한 Connection클래스의 객체 con선언
+		// DB에 접속정보 저장을 위한 Connection클래스의 객체 con선언12
 		Connection con = null;
 		
 		// DB에 접속할 계정정보
